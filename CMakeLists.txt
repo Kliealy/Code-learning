@@ -7,4 +7,4 @@ include_directories(C)
 
 add_executable(Code_learning
         C/first.cpp
-        C/first.h)
+        C/first.h C/fist.c)

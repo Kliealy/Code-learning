@@ -56,6 +56,13 @@ build CMakeFiles/Code_learning.dir/C/first.cpp.obj: CXX_COMPILER__Code_learning_
   OBJECT_DIR = CMakeFiles\Code_learning.dir
   OBJECT_FILE_DIR = CMakeFiles\Code_learning.dir\C
 
+build CMakeFiles/Code_learning.dir/C/fist.c.obj: C_COMPILER__Code_learning_Debug D$:/Code$ learning/C/fist.c || cmake_object_order_depends_target_Code_learning
+  DEP_FILE = CMakeFiles\Code_learning.dir\C\fist.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  INCLUDES = -I"D:/Code learning/C"
+  OBJECT_DIR = CMakeFiles\Code_learning.dir
+  OBJECT_FILE_DIR = CMakeFiles\Code_learning.dir\C
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Code_learning
@@ -64,7 +71,7 @@ build CMakeFiles/Code_learning.dir/C/first.cpp.obj: CXX_COMPILER__Code_learning_
 #############################################
 # Link the executable Code_learning.exe
 
-build Code_learning.exe: CXX_EXECUTABLE_LINKER__Code_learning_Debug CMakeFiles/Code_learning.dir/C/first.cpp.obj
+build Code_learning.exe: CXX_EXECUTABLE_LINKER__Code_learning_Debug CMakeFiles/Code_learning.dir/C/first.cpp.obj CMakeFiles/Code_learning.dir/C/fist.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Code_learning.dir
