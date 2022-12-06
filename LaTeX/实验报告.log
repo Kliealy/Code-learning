@@ -1,12 +1,12 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.11.29)  6 DEC 2022 10:45
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.11.29)  6 DEC 2022 11:40
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**实验报告.tex
+**实验报告
 (./实验报告.tex
 LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-02-24>
-(d:/texlive/2022/texmf-dist/tex/latex/base/article.cls
+L3 programming layer <2022-02-24> (d:/texlive/2022/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
 (d:/texlive/2022/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
@@ -22,15 +22,11 @@ File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
-)
-(d:/texlive/2022/texmf-dist/tex/latex/ctex/ctex.sty
-(d:/texlive/2022/texmf-dist/tex/latex/l3kernel/expl3.sty
+) (d:/texlive/2022/texmf-dist/tex/latex/ctex/ctex.sty (d:/texlive/2022/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2022-02-24 L3 programming layer (loader) 
-
-(d:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+ (d:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 File: l3backend-xetex.def 2022-02-07 L3 backend support: XeTeX
-
-(|extractbb --version)
+ (|extractbb --version)
 \c__kernel_sys_dvipdfmx_version_int=\count189
 \l__color_backend_stack_int=\count190
 \g__color_backend_stack_int=\count191
@@ -41,23 +37,17 @@ File: l3backend-xetex.def 2022-02-07 L3 backend support: XeTeX
 \g__pdf_backend_link_int=\count195
 ))
 Package: ctex 2021/12/12 v2.5.8 Chinese adapter in LaTeX (CTEX)
-
-(d:/texlive/2022/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+ (d:/texlive/2022/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2022-01-12 L3 Experimental document command parser
-)
-(d:/texlive/2022/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+) (d:/texlive/2022/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
-)
-(d:/texlive/2022/texmf-dist/tex/latex/ctex/ctexhook.sty
+) (d:/texlive/2022/texmf-dist/tex/latex/ctex/ctexhook.sty
 Package: ctexhook 2021/12/12 v2.5.8 Document and package hooks (CTEX)
-)
-(d:/texlive/2022/texmf-dist/tex/latex/ctex/ctexpatch.sty
+) (d:/texlive/2022/texmf-dist/tex/latex/ctex/ctexpatch.sty
 Package: ctexpatch 2021/12/12 v2.5.8 Patching commands (CTEX)
-)
-(d:/texlive/2022/texmf-dist/tex/latex/base/fix-cm.sty
+) (d:/texlive/2022/texmf-dist/tex/latex/base/fix-cm.sty
 Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
-
-(d:/texlive/2022/texmf-dist/tex/latex/base/ts1enc.def
+ (d:/texlive/2022/texmf-dist/tex/latex/base/ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
 ))
@@ -66,17 +56,13 @@ LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
 \l__ctex_tmp_dim=\dimen139
 \g__ctex_section_depth_int=\count197
 \g__ctex_font_size_int=\count198
-
-(d:/texlive/2022/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+ (d:/texlive/2022/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
 File: ctexopts.cfg 2021/12/12 v2.5.8 Option configuration file (CTEX)
-)
-(d:/texlive/2022/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
+) (d:/texlive/2022/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
 File: ctex-engine-xetex.def 2021/12/12 v2.5.8 XeLaTeX adapter (CTEX)
-
-(d:/texlive/2022/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+ (d:/texlive/2022/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
 Package: xeCJK 2021/12/12 v3.8.8 Typesetting CJK scripts with XeLaTeX
-
-(d:/texlive/2022/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+ (d:/texlive/2022/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
 Package: xtemplate 2022-01-12 L3 Experimental prototype document functions
 \l__xtemplate_tmp_dim=\dimen140
 \l__xtemplate_tmp_int=\count199
@@ -141,13 +127,10 @@ Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
 \g__xeCJK_fam_allocation_int=\count275
 \l__xeCJK_verb_case_int=\count276
 \l__xeCJK_verb_exspace_skip=\skip55
-
-(d:/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec.sty
+ (d:/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec.sty
 Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
-
-(d:/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
-Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
-X
+ (d:/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 \l__fontspec_script_int=\count277
 \l__fontspec_language_int=\count278
 \l__fontspec_strnum_int=\count279
@@ -162,39 +145,28 @@ X
 \l__fontspec_tmpa_dim=\dimen169
 \l__fontspec_tmpb_dim=\dimen170
 \l__fontspec_tmpc_dim=\dimen171
-
-(d:/texlive/2022/texmf-dist/tex/latex/base/fontenc.sty
+ (d:/texlive/2022/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-)
-(d:/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
-(d:/texlive/2022/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
+) (d:/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (d:/texlive/2022/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
 File: xeCJK.cfg 2021/12/12 v3.8.8 Configuration file for xeCJK package
 ))
 \ccwd=\dimen172
 \l__ctex_ccglue_skip=\skip56
 )
 \l__ctex_ziju_dim=\dimen173
-
-(d:/texlive/2022/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+ (d:/texlive/2022/texmf-dist/tex/latex/zhnumber/zhnumber.sty
 Package: zhnumber 2020/05/01 v2.8 Typesetting numbers with Chinese glyphs
 \l__zhnum_scale_int=\count288
-
-(d:/texlive/2022/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+ (d:/texlive/2022/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
 File: zhnumber-utf8.cfg 2020/05/01 v2.8 Chinese numerals with UTF8 encoding
-))
-(d:/texlive/2022/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese.def
-File: ctex-scheme-chinese.def 2021/12/12 v2.5.8 Chinese scheme for generic (CTE
-X)
-
-(d:/texlive/2022/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+)) (d:/texlive/2022/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese.def
+File: ctex-scheme-chinese.def 2021/12/12 v2.5.8 Chinese scheme for generic (CTEX)
+ (d:/texlive/2022/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
 File: ctex-name-utf8.cfg 2021/12/12 v2.5.8 Caption with encoding UTF-8 (CTEX)
-))
-(d:/texlive/2022/texmf-dist/tex/latex/tools/indentfirst.sty
+)) (d:/texlive/2022/texmf-dist/tex/latex/tools/indentfirst.sty
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
-)
-(d:/texlive/2022/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windows.def
-File: ctex-fontset-windows.def 2021/12/12 v2.5.8 Windows fonts definition (CTEX
-)
+) (d:/texlive/2022/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windows.def
+File: ctex-fontset-windows.def 2021/12/12 v2.5.8 Windows fonts definition (CTEX)
 
 Package fontspec Info: Could not resolve font "KaiTi/B" (it probably doesn't
 (fontspec)             exist).
@@ -225,8 +197,7 @@ Package fontspec Info: Font family 'SimSun(0)' created for font 'SimSun' with
 (fontspec)             <->"KaiTi/OT:script=hani;language=dflt;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
 
-))
-(d:/texlive/2022/texmf-dist/tex/latex/ctex/config/ctex.cfg
+)) (d:/texlive/2022/texmf-dist/tex/latex/ctex/config/ctex.cfg
 File: ctex.cfg 2021/12/12 v2.5.8 Configuration file (CTEX)
 ) (./实验报告.aux)
 \openout1 = `实验报告.aux'.
@@ -308,8 +279,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 6.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 6.
-
-[1
+ [1
 
 ] [2] (./实验报告.aux) ) 
 Here is how much of TeX's memory you used:
@@ -319,6 +289,6 @@ Here is how much of TeX's memory you used:
  26584 multiletter control sequences out of 15000+600000
  471982 words of font info for 54 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 89i,6n,97p,358b,275s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 89i,6n,97p,354b,275s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on 实验报告.pdf (2 pages).
