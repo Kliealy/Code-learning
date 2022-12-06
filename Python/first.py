@@ -1,6 +1,7 @@
-l=[]
-for i in range(2000, 3201):
-    if (i % 7 == 0) and (i % 5 == 0):
-        l.append(str(i))
+print('请输入一个数字：')
+n = int(input())
+d = dict()
+for i in range(1, n + 1):
+    d[i] = i * i
 
-print(','.join(l))
+print(d)
