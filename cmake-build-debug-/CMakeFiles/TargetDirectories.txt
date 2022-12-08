@@ -1,3 +1,0 @@
-D:/Code learning/cmake-build-debug-/CMakeFiles/Code_learning.dir
-D:/Code learning/cmake-build-debug-/CMakeFiles/edit_cache.dir
-D:/Code learning/cmake-build-debug-/CMakeFiles/rebuild_cache.dir
