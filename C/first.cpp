@@ -1,8 +1,7 @@
-#include  <cstdio>
+#include<cstdio>
 
 int main()
 {
-    printf("5*5=") ;
+    printf("hello world!!!");
     return 0;
-
 }
