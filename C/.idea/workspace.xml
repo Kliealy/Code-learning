@@ -21,14 +21,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09f1f8d0-e0fc-4125-a99d-4b7ff0549d62" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/../javascript/first.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/C.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/C.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C.dir/first.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C.dir/first.cpp.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/first.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/first.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/first.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/first.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/first.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/first.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/.idea/javascript.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/.idea/javascript.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +98,7 @@
       <workItem from="1670598408000" duration="25000" />
       <workItem from="1670689013096" duration="88000" />
       <workItem from="1670689148292" duration="594000" />
+      <workItem from="1670762653904" duration="492000" />
     </task>
     <servers />
   </component>
