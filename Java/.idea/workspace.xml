@@ -3,42 +3,26 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
-  <component name="CMakePresetLoader">{
-  &quot;useNewFormat&quot;: true
-}</component>
-  <component name="CMakeReloadState">
-    <option name="reloaded" value="true" />
-  </component>
-  <component name="CMakeRunConfigurationManager">
-    <generated>
-      <config projectName="C" targetName="C" />
-    </generated>
-  </component>
-  <component name="CMakeSettings">
-    <configurations>
-      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
-    </configurations>
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="09f1f8d0-e0fc-4125-a99d-4b7ff0549d62" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/../Java/.idea/Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/first.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/.idea/first.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/FreshJuice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/out/production/first/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/out/production/first/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/out/production/first/.idea/first.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/out/production/first/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/out/production/first/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/out/production/first/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/out/production/first/FreshJuice$FreshJuiceSize.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/out/production/first/FreshJuice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/out/production/first/FreshJuiceTest.class" beforeDir="false" />
+    <list default="true" id="e9c15097-824c-4c3a-8602-c6904b1f1080" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../C/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../C/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/first.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FreshJuice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/first/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/first/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/first/.idea/first.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/first/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/first/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/first/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/first/FreshJuice$FreshJuiceSize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/first/FreshJuice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/first/FreshJuiceTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../javascript/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../javascript/.idea/javascript.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../javascript/.idea/jsLibraryMappings.xml" beforeDir="false" />
@@ -90,19 +74,17 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ClangdSettings">
-    <option name="formatViaClangd" value="false" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectApplicationVersion">
-    <option name="ide" value="CLion" />
-    <option name="majorVersion" value="2022" />
-    <option name="minorVersion" value="3" />
-  </component>
-  <component name="ProjectId" id="2IXkGKnQnGgWlalfGaaIRO7BasV" />
+  <component name="ProjectId" id="2Its4aeAkHwnthw9cnrYDZeqDqK" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -111,53 +93,28 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="C" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="C" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C" RUN_TARGET_NAME="C">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="09f1f8d0-e0fc-4125-a99d-4b7ff0549d62" name="变更" comment="" />
-      <created>1670335218337</created>
+      <changelist id="e9c15097-824c-4c3a-8602-c6904b1f1080" name="变更" comment="" />
+      <created>1671012027639</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1670335218337</updated>
-      <workItem from="1670335219465" duration="478000" />
-      <workItem from="1670391474325" duration="215000" />
-      <workItem from="1670391702323" duration="22000" />
-      <workItem from="1670497111285" duration="1346000" />
-      <workItem from="1670500749998" duration="2228000" />
-      <workItem from="1670579021521" duration="18000" />
-      <workItem from="1670582463214" duration="58000" />
-      <workItem from="1670596818459" duration="20000" />
-      <workItem from="1670596852471" duration="99000" />
-      <workItem from="1670597710012" duration="60000" />
-      <workItem from="1670597780918" duration="30000" />
-      <workItem from="1670597821059" duration="23000" />
-      <workItem from="1670598173641" duration="11000" />
-      <workItem from="1670598194255" duration="32000" />
-      <workItem from="1670598408000" duration="25000" />
-      <workItem from="1670689013096" duration="88000" />
-      <workItem from="1670689148292" duration="594000" />
-      <workItem from="1670762653904" duration="492000" />
-      <workItem from="1671014612867" duration="254000" />
-      <workItem from="1671014907241" duration="84000" />
+      <updated>1671012027639</updated>
+      <workItem from="1671012029352" duration="333000" />
+      <workItem from="1671017982841" duration="76000" />
     </task>
     <servers />
   </component>
