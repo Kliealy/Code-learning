@@ -19,5 +19,5 @@ while guessTaken < 6:
     if guess > number:
         print("Your guess is too high")
 
-    else: .IxF:44#hShY\MY-010454
+    else:
          print("Congratulation!{0}You are right!".format(User_name))
