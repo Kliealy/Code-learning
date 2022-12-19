@@ -1,3 +1,5 @@
 # ninja log v5
 1	110	6930759891619548	CMakeFiles/CandC__.dir/main.c.obj	5a3dfce50f9b46f3
 113	298	6930759893438372	CandC__.exe	4583278b0a70f8b
+0	98	6934648639782639	CMakeFiles/CandC__.dir/main.c.obj	82f654db5fba5851
+99	235	6934648641103177	CandC__.exe	cc81dcff946df101

@@ -1,5 +1,5 @@
 # frozen_string_literal: true
 
-#!/usr/bin/ruby
+# !/usr/bin/ruby
 
-puts "Hello World!"
+puts 'Hello World!'

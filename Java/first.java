@@ -1,5 +1,5 @@
 public class first {
-    public static void main(String[] args) {
-        System.out.println("We will not use 'Hello,World!!!'");
+    public static void main(String[] args){
+        System.out.println("Hello World");
     }
 }
