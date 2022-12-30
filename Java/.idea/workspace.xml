@@ -5,36 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9c15097-824c-4c3a-8602-c6904b1f1080" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/../Python/third.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CandC++/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CandC++/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CandC++/cmake-build-debug/.cmake/api/v1/reply/cache-v2-116f3ede864b0201af6a.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CandC++/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-4528f9f5950d7735d378.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CandC++/cmake-build-debug/.cmake/api/v1/reply/index-2022-12-18T14-12-25-0686.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CandC++/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-966de58f6f17460ff940.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CandC++/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../CandC++/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CandC++/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../CandC++/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CandC++/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CandC++/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CandC++/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../CandC++/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CandC++/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../CandC++/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CandC++/cmake-build-debug/CMakeFiles/3.24.2/CMakeRCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../CandC++/cmake-build-debug/CMakeFiles/3.24.2/CMakeRCCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CandC++/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../CandC++/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CandC++/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../CandC++/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CandC++/cmake-build-debug/CMakeFiles/CandC__.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../CandC++/cmake-build-debug/CMakeFiles/CandC__.dir/main.c.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CandC++/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CandC++/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CandC++/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CandC++/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CandC++/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../CandC++/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CandC++/cmake-build-debug/CandC__.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../CandC++/cmake-build-debug/CandC__.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CandC++/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../CandC++/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CandC++/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../CandC++/cmake-build-debug/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CandC++/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../CandC++/cmake-build-debug/cmake_install.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first.java" beforeDir="false" afterPath="$PROJECT_DIR$/first.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/first.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/first.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python/The Night.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/The Night.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python/second.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/second.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ruby/untitled/firet.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../Ruby/untitled/firet.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +66,8 @@
       <workItem from="1671951809791" duration="1011000" />
       <workItem from="1672069592116" duration="75000" />
       <workItem from="1672289241707" duration="29000" />
+      <workItem from="1672388268483" duration="27000" />
+      <workItem from="1672388312191" duration="35000" />
     </task>
     <servers />
   </component>
