@@ -1,6 +1,6 @@
 import requests
 
-m_url = 'https://dl.stream.qqmusic.qq.com/C400003pyeir0FV236.m4a?guid=9892066488&vkey=3E2FF712482A60B3C9EB32F1E75DE7770F3CFB47489C806F690428457532B73E393953D4DC970EF946CA9F7059422B8035EBE7EF2197FCC0&uin=482165350&fromtag=120032'
+m_url = 'https://dl.stream.qqmusic.qq.com/C400001MEsH00VICBA.m4a?guid=1693308126&vkey=F0765618E41A7386834D4C12DFEDF903AB02F2496BD3C2389ACF0349BF8D837415AA938CA5F1604FFD78E1DD49D2A2A1572716D4E44939FC&uin=482165350&fromtag=120032'
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.0.0'
@@ -8,5 +8,5 @@ headers = {
 
 m_resp = requests.get(m_url, headers=headers)
 
-with open('The Night.mp3', 'wb') as f:
+with open('再回首.mp3', 'wb') as f:
     f.write(m_resp.content)

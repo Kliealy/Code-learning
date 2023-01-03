@@ -1,2 +1,2 @@
-var = 2 + 2
+var = 999 * 999
 print(var)
